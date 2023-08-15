@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @xjakob150
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning educational mathematics and computer science  
+- 💞️ I’m looking to collaborate on react avatar projects
+- 📫 How to reach me: jakob.lipovec@student.um.si
